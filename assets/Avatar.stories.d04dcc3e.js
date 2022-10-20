@@ -1,0 +1,2 @@
+import{A as t}from"./index.106a71e4.js";import"./index.6314a054.js";import"./iframe.9bee7f07.js";import"./index.f15dcf67.js";import"./jsx-runtime.ca7b991a.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/dikz.png",alt:"Cicero Gabriel"},argTypes:{src:{control:{type:"text"}}}},p={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,e as WithFallback,m as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.d04dcc3e.js.map
